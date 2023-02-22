@@ -35,8 +35,7 @@ String adjective2 = s.nextLine();
 
 //Asks the user to input a different animal to replace dog
 System.out.print ("Enter another name of an animal to replace 'dog': ");
-String animal2
-= s.nextLine();
+String animal2 = s.nextLine();
 
 //Using a println() methods to output the sentance, as well as the input of the user together.
 System.out.println("The following sentances consists of all the changes you have made: ");
